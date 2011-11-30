@@ -3,6 +3,7 @@ db/*.sqlite3
 log/*.log
 tmp/
 .sass-cache/
+<<<<<<< HEAD
 *.log
 /tmp/
 doc/
@@ -10,3 +11,5 @@ doc/
 *~
 .project
 .DS_Store
+=======
+>>>>>>> 48ce17864de5ac42a9b57b19ad9cf5c80914b26f
