@@ -2,6 +2,14 @@ require 'spec_helper'
 
 describe UsersController do
   render_views
+  
+  describe "GET 'show'" do
+    it "should be successful" do
+    response.should be_success
+  end
+end
+
+
 
   describe "GET 'new'" do
     it "returns http success" do
