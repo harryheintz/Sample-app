@@ -140,3 +140,9 @@ footer nav {
 		margin-bottom: -15px;
 	}
 
+/*Sign Up Page*/
+
+div.field, div.actions{
+	margin-bottom: 10px;
+	
+}
