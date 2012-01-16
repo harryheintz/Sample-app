@@ -4,6 +4,7 @@ log/*.log
 tmp/
 .sass-cache/
 <<<<<<< HEAD
+<<<<<<< HEAD
 *.log
 /tmp/
 doc/
@@ -11,5 +12,7 @@ doc/
 *~
 .project
 .DS_Store
+=======
+>>>>>>> 48ce17864de5ac42a9b57b19ad9cf5c80914b26f
 =======
 >>>>>>> 48ce17864de5ac42a9b57b19ad9cf5c80914b26f

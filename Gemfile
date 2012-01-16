@@ -6,7 +6,9 @@ gem 'rails', '3.1.1'
 # gem 'rails',     :git => 'git://github.com/rails/rails.git'
 
 gem 'sqlite3'
+
 gem 'gravatar_image_tag'
+
 
 
 
@@ -17,6 +19,7 @@ group :assets do
   gem 'coffee-rails', '~> 3.1.1'
   gem 'uglifier', '>= 1.0.3'
   gem 'rspec-rails'
+
   gem 'annotate'
 
 end
@@ -24,7 +27,9 @@ end
 group :test do
   gem 'rspec'
   gem 'webrat', '0.7.1'
+
   gem 'factory_girl_rails'
+
 end
 
 gem 'jquery-rails'
